@@ -12,12 +12,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 73274c993877c7f4ca304e3ad0dffe69, type: 3}
   m_Name: "\u7B2C\u4E00\u9996\u6B4C"
   m_EditorClassIdentifier: 
-  musicCubes:
-  - cubeRotation: 1
-    cubePosition: 4
+  musicCubesBlue:
+  - cubeRotation: 2
+    cubePosition: 5
   - cubeRotation: 0
-    cubePosition: 4
+    cubePosition: 0
   - cubeRotation: 1
-    cubePosition: 4
+    cubePosition: 5
+  - cubeRotation: 2
+    cubePosition: 5
+  musicCubesRed:
   - cubeRotation: 0
-    cubePosition: 4
+    cubePosition: 0
+  - cubeRotation: 2
+    cubePosition: 5
+  - cubeRotation: 1
+    cubePosition: 5
+  - cubeRotation: 2
+    cubePosition: 5
+  interval: 2

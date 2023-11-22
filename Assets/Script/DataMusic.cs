@@ -8,8 +8,12 @@ namespace Heyipomoea
     [CreateAssetMenu(menuName = "Heyipomoea/Music", fileName = "Music")]
     public class DataMusic : ScriptableObject
     {
-        [Header("每一個音樂方塊")]
-        public MusicCube[] musicCubes;
+        [Header("每一個音樂方塊: 藍")]
+        public MusicCube[] musicCubesBlue;
+        [Header("每一個音樂方塊: 紅")]
+        public MusicCube[] musicCubesRed;
+        [Header("生成間隔"), Range(0, 5)]
+        public float interval = 2;
     }
 
     /// <summary>
@@ -27,7 +31,7 @@ namespace Heyipomoea
     /// </summary>
     public enum CubeRotation
     {
-        Up, Down, Left, Right
+        None, Up, Down, Left, Right
     }
 
     /// <summary>
@@ -35,7 +39,7 @@ namespace Heyipomoea
     /// </summary>
     public enum CubePosition
     {
-        Up, Down, Left, Right, Middle
+        None, Up, Down, Left, Right, Middle
     }
 }
 

@@ -152,6 +152,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66311ffd2893bf34da76ab61fa4f682a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dataMusic: {fileID: 11400000, guid: e081fafce47247645bfa53d8e0610b91, type: 2}
   pointSpawnBlue: {fileID: 1119540178}
   pointSpawnRed: {fileID: 1550124988}
   prefabCubeBlue: {fileID: 6822442366951128058, guid: 00c1bfc9a69240b4692f3153e48fa6d7,
