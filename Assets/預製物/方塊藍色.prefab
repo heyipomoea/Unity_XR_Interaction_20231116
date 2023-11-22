@@ -98,6 +98,7 @@ GameObject:
   - component: {fileID: 5033167254379306668}
   - component: {fileID: 6946165525997394059}
   - component: {fileID: -8793233612336558612}
+  - component: {fileID: 8586531406118947186}
   m_Layer: 0
   m_Name: "\u65B9\u584A\u85CD\u8272"
   m_TagString: Untagged
@@ -119,7 +120,7 @@ Transform:
   m_Children:
   - {fileID: 5756574542886013646}
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &2741337600995381621
 MeshFilter:
@@ -205,3 +206,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
+--- !u!114 &8586531406118947186
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6822442366951128058}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6eb6756b5952be4db72c79d40a1b86a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  offsetUp: {x: 0, y: 0.5, z: 0}
+  sizeUp: {x: 1, y: 0.1, z: 1}
+  offsetDown: {x: 0, y: -0.5, z: 0}
+  sizeDown: {x: 1, y: 0.1, z: 1}
+  layerHit:
+    serializedVersion: 2
+    m_Bits: 8
