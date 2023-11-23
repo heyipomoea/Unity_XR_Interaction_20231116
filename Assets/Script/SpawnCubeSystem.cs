@@ -60,16 +60,16 @@ namespace Heyipomoea
                 case CubePosition.None:
                     break;
                 case CubePosition.Up:
-                    positionNew = new Vector3(0, 1, 0);
+                    positionNew = new Vector3(0, 0.5f, 0);
                     break;
                 case CubePosition.Down:
-                    positionNew = new Vector3(0, -1, 0);
+                    positionNew = new Vector3(0, -0.5f, 0);
                     break;
                 case CubePosition.Left:
-                    positionNew = new Vector3(-1, 0, 0);
+                    positionNew = new Vector3(-0.5f, 0, 0);
                     break;
                 case CubePosition.Right:
-                    positionNew = new Vector3(1, 0, 0);
+                    positionNew = new Vector3(0.5f, 0, 0);
                     break;
                 case CubePosition.Middle:
                     positionNew = Vector3.zero;

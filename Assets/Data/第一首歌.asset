@@ -21,6 +21,82 @@ MonoBehaviour:
     cubePosition: 5
   - cubeRotation: 2
     cubePosition: 5
+  - cubeRotation: 3
+    cubePosition: 3
+  - cubeRotation: 4
+    cubePosition: 4
+  - cubeRotation: 1
+    cubePosition: 1
+  - cubeRotation: 3
+    cubePosition: 3
+  - cubeRotation: 4
+    cubePosition: 4
+  - cubeRotation: 1
+    cubePosition: 1
+  - cubeRotation: 2
+    cubePosition: 2
+  - cubeRotation: 2
+    cubePosition: 5
+  - cubeRotation: 2
+    cubePosition: 5
+  - cubeRotation: 2
+    cubePosition: 5
+  - cubeRotation: 3
+    cubePosition: 3
+  - cubeRotation: 1
+    cubePosition: 1
+  - cubeRotation: 2
+    cubePosition: 2
+  - cubeRotation: 4
+    cubePosition: 4
+  - cubeRotation: 1
+    cubePosition: 1
+  - cubeRotation: 4
+    cubePosition: 4
+  - cubeRotation: 1
+    cubePosition: 1
+  - cubeRotation: 2
+    cubePosition: 5
+  - cubeRotation: 2
+    cubePosition: 5
+  - cubeRotation: 2
+    cubePosition: 5
+  - cubeRotation: 3
+    cubePosition: 3
+  - cubeRotation: 4
+    cubePosition: 4
+  - cubeRotation: 2
+    cubePosition: 2
+  - cubeRotation: 1
+    cubePosition: 1
+  - cubeRotation: 3
+    cubePosition: 3
+  - cubeRotation: 4
+    cubePosition: 4
+  - cubeRotation: 2
+    cubePosition: 5
+  - cubeRotation: 2
+    cubePosition: 5
+  - cubeRotation: 2
+    cubePosition: 5
+  - cubeRotation: 1
+    cubePosition: 1
+  - cubeRotation: 2
+    cubePosition: 2
+  - cubeRotation: 3
+    cubePosition: 3
+  - cubeRotation: 4
+    cubePosition: 4
+  - cubeRotation: 2
+    cubePosition: 2
+  - cubeRotation: 3
+    cubePosition: 3
+  - cubeRotation: 2
+    cubePosition: 2
+  - cubeRotation: 1
+    cubePosition: 1
+  - cubeRotation: 2
+    cubePosition: 2
   musicCubesRed:
   - cubeRotation: 0
     cubePosition: 0
@@ -30,4 +106,80 @@ MonoBehaviour:
     cubePosition: 5
   - cubeRotation: 2
     cubePosition: 5
+  - cubeRotation: 3
+    cubePosition: 3
+  - cubeRotation: 4
+    cubePosition: 4
+  - cubeRotation: 1
+    cubePosition: 1
+  - cubeRotation: 3
+    cubePosition: 3
+  - cubeRotation: 4
+    cubePosition: 4
+  - cubeRotation: 1
+    cubePosition: 1
+  - cubeRotation: 2
+    cubePosition: 2
+  - cubeRotation: 2
+    cubePosition: 5
+  - cubeRotation: 2
+    cubePosition: 5
+  - cubeRotation: 2
+    cubePosition: 5
+  - cubeRotation: 3
+    cubePosition: 3
+  - cubeRotation: 1
+    cubePosition: 1
+  - cubeRotation: 2
+    cubePosition: 2
+  - cubeRotation: 4
+    cubePosition: 4
+  - cubeRotation: 1
+    cubePosition: 1
+  - cubeRotation: 4
+    cubePosition: 4
+  - cubeRotation: 1
+    cubePosition: 1
+  - cubeRotation: 2
+    cubePosition: 5
+  - cubeRotation: 2
+    cubePosition: 5
+  - cubeRotation: 2
+    cubePosition: 5
+  - cubeRotation: 3
+    cubePosition: 3
+  - cubeRotation: 4
+    cubePosition: 4
+  - cubeRotation: 2
+    cubePosition: 2
+  - cubeRotation: 1
+    cubePosition: 1
+  - cubeRotation: 3
+    cubePosition: 3
+  - cubeRotation: 4
+    cubePosition: 4
+  - cubeRotation: 2
+    cubePosition: 5
+  - cubeRotation: 2
+    cubePosition: 5
+  - cubeRotation: 2
+    cubePosition: 5
+  - cubeRotation: 1
+    cubePosition: 1
+  - cubeRotation: 2
+    cubePosition: 2
+  - cubeRotation: 3
+    cubePosition: 3
+  - cubeRotation: 4
+    cubePosition: 4
+  - cubeRotation: 2
+    cubePosition: 2
+  - cubeRotation: 3
+    cubePosition: 3
+  - cubeRotation: 2
+    cubePosition: 2
+  - cubeRotation: 1
+    cubePosition: 1
+  - cubeRotation: 2
+    cubePosition: 2
   interval: 2
